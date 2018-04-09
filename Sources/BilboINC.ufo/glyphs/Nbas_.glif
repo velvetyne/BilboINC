@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nbas" format="1">
+  <advance width="335"/>
+  <outline>
+    <contour>
+      <point x="122" y="94" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="681" type="line"/>
+      <point x="122" y="681" type="line"/>
+      <point x="122" y="188" type="line"/>
+      <point x="213" y="88" type="line"/>
+      <point x="213" y="682" type="line"/>
+      <point x="285" y="682" type="line"/>
+      <point x="285" y="-2" type="line"/>
+      <point x="213" y="-2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

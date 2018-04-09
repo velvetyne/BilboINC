@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ffi" format="1">
+  <advance width="609"/>
+  <unicode hex="FB03"/>
+  <outline>
+    <contour>
+      <point x="332" y="384" type="line"/>
+      <point x="401" y="452" type="line"/>
+      <point x="449" y="403" type="line"/>
+      <point x="332" y="287" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="227" type="line"/>
+      <point x="119" y="84" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="681" type="line"/>
+      <point x="503" y="681" type="line"/>
+      <point x="523" y="701" type="line"/>
+      <point x="580" y="645" type="line"/>
+      <point x="523" y="589" type="line"/>
+      <point x="499" y="613" type="line"/>
+      <point x="332" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="181" type="line"/>
+      <point x="263" y="324" type="line"/>
+      <point x="263" y="613" type="line"/>
+      <point x="119" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="550" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="550" type="line"/>
+    </contour>
+  </outline>
+</glyph>
